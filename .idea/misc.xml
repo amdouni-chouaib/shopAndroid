@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_acceessorydisplay.xml" value="0.2359375" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_accessoriesmandisplay.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_accueil.xml" value="0.2" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_add_product.xml" value="0.264" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_addproductadmin.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_admin_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_admin_dashboard2.xml" value="0.25" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_admin_dhashboard.xml" value="0.264" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_admindashboard.xml" value="0.25" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_article.xml" value="0.2" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_bagdisplay.xml" value="0.25" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_basket.xml" value="0.264" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_clothes_display.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_clothes_femme.xml" value="0.2" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_clothes_homme.xml" value="0.176" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_clothesmandisplay.xml" value="0.2359375" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_listbasket.xml" value="0.25" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_login.xml" value="0.25219941348973607" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_menu_femme.xml" value="0.2" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_menu_homme.xml" value="0.25" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_my_profile.xml" value="0.264" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_recherche.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_sell.xml" value="0.25" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_shoesdisplay.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_shoesmandisplay.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_signup.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_welcome.xml" value="0.2" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/activity_wishlist.xml" value="0.25" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/bag.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/basketadded.xml" value="0.264" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/clothes.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/fragment_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/fragment_product.xml" value="0.1875" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/fragment_user.xml" value="0.25" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/item_list.xml" value="0.12107396149949341" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/product.xml" value="0.2" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/layout/shoes.xml" value="0.25" />
+        <entry key="..\:/Users/chouaib/Desktop/projetversion1/app/src/main/res/menu/navigation_menu.xml" value="0.25" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/drawable/border.xml" value="0.2235" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/drawable/borderr.xml" value="0.2235" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/drawable/borderrr.xml" value="0.2265" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/drawable/round.xml" value="0.232" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_accueil.xml" value="0.2" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_accueil1.xml" value="0.1" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_article.xml" value="0.264" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_basket.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_clothes_femme.xml" value="0.264" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_clothes_homme.xml" value="0.264" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_login.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_main.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_menu_femme.xml" value="0.25" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_menu_homme.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_my_profile.xml" value="0.264" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_recherche.xml" value="0.264" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_sell.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_test.xml" value="0.1" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_welcome.xml" value="0.2" />
+        <entry key="..\:/Users/rihem jarrahi/AndroidStudioProjects/projetversion1/app/src/main/res/layout/activity_wishlist.xml" value="0.21784420289855072" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

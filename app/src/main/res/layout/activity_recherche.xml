@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/shoppyy"
+    tools:context=".Recherche">
+
+
+    <EditText
+        android:layout_width="408dp"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="84dp"
+        android:drawableStart="@drawable/searchh"
+        android:drawablePadding="10dp"
+        android:layout_marginEnd="2dp"
+        android:hint="What are you searching for ?"
+        android:inputType="text"
+        android:textAlignment="textStart" />
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="655dp"
+        android:background="@android:color/transparent"
+        android:drawableTop="@drawable/homee" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="39dp"
+        android:layout_marginTop="690dp"
+        android:text="Home"
+        android:textColor="@color/white"
+        android:textSize="12dp"
+        android:textStyle="normal"/>
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="655dp"
+        android:background="@android:color/transparent"
+        android:drawableTop="@drawable/searchhh" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="108dp"
+        android:layout_marginTop="690dp"
+        android:text="Search"
+        android:textColor="@color/white"
+        android:textSize="12dp"
+        android:textStyle="normal"/>
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="180dp"
+        android:layout_marginTop="655dp"
+        android:background="@android:color/transparent"
+        android:drawableTop="@drawable/hamburger" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="690dp"
+        android:text="Menu"
+        android:textColor="@color/white"
+        android:textSize="12dp"
+        android:textStyle="normal"/>
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="260dp"
+        android:layout_marginTop="655dp"
+        android:background="@android:color/transparent"
+        android:drawableTop="@drawable/heart" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="260dp"
+        android:layout_marginTop="690dp"
+        android:text="Favorites"
+        android:textColor="@color/white"
+        android:textSize="12dp"
+        android:textStyle="normal"/>
+
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="330dp"
+        android:layout_marginTop="655dp"
+        android:background="@android:color/transparent"
+        android:drawableTop="@drawable/cart" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="338dp"
+        android:layout_marginTop="690dp"
+        android:text="Basket"
+        android:textColor="@color/white"
+        android:textSize="12dp"
+        android:textStyle="normal"/>
+</RelativeLayout>
